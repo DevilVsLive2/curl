@@ -1,0 +1,17 @@
+{
+  "name": "@war3js/curl",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/lib/index.js",
+  "scripts": {
+    "start": "ts-node-esm src/index.ts",
+    "build": "tsc"
+  },
+  "author": "",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}

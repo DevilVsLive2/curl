@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "module": "ES6",
+        "lib": ["ES2021"],
+        "moduleResolution": "node",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true,
+        "outDir": "dist/lib",
+        "declaration": true,
+        "declarationDir": "dist/types",
+        "resolveJsonModule": true
+    },
+    "include": ["src/**/*"]
+}
